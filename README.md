@@ -4,9 +4,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martin896&label=Profile%20views&color=0e75b6&style=flat" alt="martin896" /> </p>
-
-src="https://img.shields.io/twitter/follow/https://twitter.com/matrix_newton?logo=twitter&style=for-the-badge" alt="https://twitter.com/matrix_newton" /></a> </p>
 
 - 🌱 I’m currently learning **Python(data science libraries), blockchain**
 
