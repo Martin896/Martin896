@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHpeqY7vI0x_OOpFngFWlzHxAK2rQRRXG7Pw23PF9iXYoodKUA6H63dvbZy1xfnDL_LY&usqp=CAU)]
+
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">I am an Electrical/ Electronic  Engineering student, I have a keen interest in blockchain technology, data science, AI, and machine learning..</h3>
 
