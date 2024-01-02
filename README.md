@@ -1,4 +1,4 @@
-## Hi! 👋 I'm Martin Odachi.<br><br>Fullstack Software Engineering Engineering Student(focus on Backend Technology).<br> Pursuing a degree in Electrical Electronics Engineering(Power System Engineering - Major)- Final year.
+## Hi! 👋 I'm Martin Odachi.<br><br>Fullstack Software Engineering Engineering Student(focus on Backend Technology).<br> Pursuing a degree in Electrical Electronics Engineering(Power System Engineering - Major)
 
 
 # 💻 Tech Stack:
